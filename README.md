@@ -15,7 +15,7 @@ Spec :
 4. deploy to your web server or just run with ``` php -S localhost:8000 ```
 
 
-#Let's talk about some projects with me
+# Let's talk about some projects with me
 
 Just Contact Me At:
 
